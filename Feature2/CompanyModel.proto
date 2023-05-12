@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-message User {
+message Company {
    int64 id = 1;
    string name = 2;
    string revenue = 3;
